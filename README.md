@@ -34,8 +34,8 @@ To get Your App Name up and running, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/usamaislam013/ROR-User_Authentication.git
-   cd ROR-User_Authentication
+   git clone https://github.com/geekmood/authentication_app.git
+   cd authentication_app
 
 2. Install gem dependencies:
 
